@@ -2,4 +2,4 @@
 
 waa project iska yar oo asigment ah kaas oo ku practice gareynaaye
 
-? [sawirkaasooah](/assets/ex1.png)
+![sawirkaasooah](/assets/ex1.png)
